@@ -1,5 +1,5 @@
 const artworkImages = [
-  "https://api.builder.io/api/v1/image/assets/TEMP/8a7188a21afd349af9f5e87f94490b10e71803c2?width=674",
+  "Dan - The Boss.jpg",
   "https://api.builder.io/api/v1/image/assets/TEMP/0b2f227e59eddbd972d3a504203bcfb0fc4a18c5?width=262",
   "https://api.builder.io/api/v1/image/assets/TEMP/62f6e09aee6b4df6c5df97bd007173c01f6d6d96?width=262",
   "https://api.builder.io/api/v1/image/assets/TEMP/3a81675f7ab6580030142d597ed7da93352fb281?width=252",
